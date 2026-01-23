@@ -1,4 +1,4 @@
-module ai2026
+module github.com/phixofor/GhostDeck
 
 go 1.25.0
 
