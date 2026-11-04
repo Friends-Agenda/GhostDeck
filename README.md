@@ -3,6 +3,10 @@ GhostDeck TUI Slide Deck
 
 Neon/cyberpunk terminal slide presenter for internal AI demos.
 
+![GhostDeck demo](demo/ghostdeck.gif)
+
+The demo is recorded with [vhs](https://github.com/charmbracelet/vhs): `vhs demo/demo.tape` (run from the repo root after `go build -o ghostdeck .`).
+
 Requirements
 ------------
 - Go 1.25+
